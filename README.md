@@ -51,4 +51,4 @@ Liste des symboles :
 | Humain | O |
 | Ordinateur | x |
 
-
+![CLI interface](/P4_CLI/CLI.png)
