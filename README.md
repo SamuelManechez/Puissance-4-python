@@ -4,11 +4,15 @@
 # Puissance-4-python
 Premier projet python
 
-# P4_GUI
+## P4_GUI
 P4_GUI est le projet initiale. Un puissance 4 avec interface graphique. J'ai passé beaucoup d'heures à essayer de le developper mais cela reste cependant au dessus de mes capacités actuelles. 
 
-# Utilisation
-Installer les dépendances en vous plaçant dans le dossier des programmes ```.py``` via la commande :
+### Utilisation
+Installer les dépendances en vous plaçant dans le dossier des programmes ```.py``` et éxcutez la la commande suivante:
 ```Python
 pip install -r requirements.txt
 ```
+
+Pour terminer lancer le programme ```main.py```.
+
+![GUI interface](/P4_GUI/GUI.png)
