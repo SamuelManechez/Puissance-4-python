@@ -22,6 +22,7 @@ python3 main.py
 ```
 
 ![GUI interface](/P4_GUI/GUI.png)
+
 *Interface graphique*
 
 ## P4_CLI
@@ -52,5 +53,7 @@ Liste des symboles :
 | Humain | O |
 | Ordinateur | x |
 
+
 ![CLI interface](/P4_CLI/CLI.png)
+
 *Interface ligne de commande*
