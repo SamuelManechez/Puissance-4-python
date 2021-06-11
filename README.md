@@ -5,7 +5,10 @@
 Premier projet python
 
 ## P4_GUI
-P4_GUI est le projet initiale. Un puissance 4 avec interface graphique. J'ai passé beaucoup d'heures à essayer de le developper mais cela reste cependant au dessus de mes capacités actuelles. 
+> P4_GUI est le projet initiale. Un puissance 4 avec interface graphique. J'ai passé beaucoup d'heures à essayer de le developper mais cela reste cependant au dessus de mes capacités actuelles. 
+
+### Pre-requis
+Télécharger le dossier P4_GUI
 
 ### Utilisation
 Installer les dépendances en vous plaçant dans le dossier des programmes ```.py``` et éxcutez la la commande suivante:
