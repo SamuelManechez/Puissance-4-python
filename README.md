@@ -22,6 +22,7 @@ python3 main.py
 ```
 
 ![GUI interface](/P4_GUI/GUI.png)
+*Interface graphique*
 
 ## P4_CLI
 > P4_CLI est le projet sur lequel je me suis rabbatu. Le programme est loin d'être parfait et ne gère pas les diagonales.
@@ -52,3 +53,4 @@ Liste des symboles :
 | Ordinateur | x |
 
 ![CLI interface](/P4_CLI/CLI.png)
+*Interface ligne de commande*
