@@ -87,7 +87,7 @@ def p4():
         #Vérification par ligne    
         compteurLO = 0
         compteurLX = 0 
-        for k in range(6):
+        for k in range(7):
             if data[line][k] == "O":
                 compteurLO += 1
                 compteurLX = 0
