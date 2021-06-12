@@ -17,14 +17,14 @@ def p4():
     print("")
     print(tabulate(data,headers, tablefmt='fancy_grid'))
 
-    #Déclaration de variables
+    #Déclaration des variables
     line = 6
     win = False
     irl = True
 
     while not win:
         
-        # Saisit du choix de la case
+        # Saisi du choix de la colonne
         if irl == True :
             while True:
                 try:
@@ -40,10 +40,10 @@ def p4():
         elif irl == False:
             print ("\n Joueur = Ordinateur")
             time.sleep(0.5)
-            x = random.randint(1, 6)
+            x = random.randint(0, 6)
             v = 'x'       
 
-        # Emplier les symbole
+        # Empiler les symboles
         for i in range(5, 0, -1):
             if data[i][x] == "":
                 data[i][x] = v
@@ -57,7 +57,7 @@ def p4():
         os.system("clear")
         
         #Affichage du titre
-        print("\n\n        Puissance 4!")
+        print("\n\n               Puissance 4!")
         print("")
         
     
